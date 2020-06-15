@@ -1,3 +1,4 @@
-# ccr-codes
+# Projects
 
-teste
+Bootstrap for time series
+
